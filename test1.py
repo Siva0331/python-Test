@@ -2,7 +2,7 @@ n = "kumar"
 y = float(20)
 
 def siva():
-    n = "Prakasam"
+    n = "SivaPrakasam"
     print(n)
 
 siva()
